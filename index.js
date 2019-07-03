@@ -2,7 +2,7 @@ const { get } = require('color-string');
 const cssColorNames = require('css-color-names/css-color-names.json');
 
 const isCss3Color = (str) => {
-  if (typeof str !== 'string) {
+  if (typeof str !== 'string') {
     return false;
   }
   const s = get(str);
