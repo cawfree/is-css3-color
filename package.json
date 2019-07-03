@@ -1,0 +1,14 @@
+{
+  "name": "is-css3-color",
+  "version": "1.0.0",
+  "description": "A simple tool to check whether a supplied string is a valid CSS 3 compatible color value.",
+  "main": "index.js",
+  "repository": "https://github.com/cawfree/is-css3-color",
+  "author": "@cawfree <hello@cawfree.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "color-string": "^1.5.3",
+    "css-color-names": "^1.0.1"
+  }
+}
