@@ -1,5 +1,6 @@
 {
   "name": "is-css3-color",
+  "keywords": ["css", "css3", "color", "names", "validation", "validate"],
   "version": "1.0.0",
   "description": "A simple tool to check whether a supplied string is a valid CSS 3 compatible color value.",
   "main": "index.js",
